@@ -36,3 +36,5 @@ lerna-debug.log*
 
 # Environment varuables
 .env
+
+src/auth/constants.ts
